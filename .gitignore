@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.env
+*.pem
+*.key
+credentials*
+venv/
+.venv/
+node_modules/
+target/
+dist/
+build/
+*.gguf
+*.pt
+*.safetensors
